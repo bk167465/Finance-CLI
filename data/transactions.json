@@ -1,0 +1,62 @@
+[
+{
+"type": "expense",
+"category": "food",
+"amount": 50,
+"date": "2024-05-29T22:15:38.736082411+05:30"
+},
+{
+"type": "income",
+"category": "salary",
+"amount": 100,
+"date": "2024-05-30T12:23:34.253654945+05:30"
+},
+{
+"type": "income",
+"category": "salary",
+"amount": 5000,
+"date": "2024-01-15T00:00:00Z"
+},
+{
+"type": "expense",
+"category": "rent",
+"amount": 1200,
+"date": "2024-01-01T00:00:00Z"
+},
+{
+"type": "expense",
+"category": "food",
+"amount": 150.75,
+"date": "2024-01-05T00:00:00Z"
+},
+{
+"type": "income",
+"category": "freelance",
+"amount": 200,
+"date": "2024-01-10T00:00:00Z"
+},
+{
+"type": "expense",
+"category": "transportation",
+"amount": 50,
+"date": "2024-01-11T00:00:00Z"
+},
+{
+"type": "expense",
+"category": "utilities",
+"amount": 100,
+"date": "2024-01-12T00:00:00Z"
+},
+{
+"type": "income",
+"category": "investment",
+"amount": 300,
+"date": "2024-01-13T00:00:00Z"
+},
+{
+"type": "expense",
+"category": "entertainment",
+"amount": 75,
+"date": "2024-01-14T00:00:00Z"
+}
+]

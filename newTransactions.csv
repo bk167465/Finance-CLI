@@ -1,0 +1,9 @@
+Type,Category,Amount,Date
+income,salary,5000.00,2024-01-15
+expense,rent,1200.00,2024-01-01
+expense,food,150.75,2024-01-05
+income,freelance,200.00,2024-01-10
+expense,transportation,50.00,2024-01-11
+expense,utilities,100.00,2024-01-12
+income,investment,300.00,2024-01-13
+expense,entertainment,75.00,2024-01-14
